@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuietQuest.Audio", "QuietQuest.Audio\QuietQuest.Audio.csproj", "{CEB5485E-734D-4EE0-BE15-D14CD671742B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuietQuest.Models", "QuietQuest.Models\QuietQuest.Models.csproj", "{890E61BB-C84D-4B23-908A-E7162F090197}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuietQuest.Data", "QuietQuest.Data\QuietQuest.Data.csproj", "{926E3899-E3FE-427F-A182-9B26BA66B8A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuietQuest.Core", "QuietQuest.Core\QuietQuest.Core.csproj", "{146ADF42-4FCF-4C10-8225-BD1EBDBEBF8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuietQuest.App", "QuietQuest.App\QuietQuest.App.csproj", "{C7198BBE-FADD-405F-9C81-7EF258C4E1A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB5485E-734D-4EE0-BE15-D14CD671742B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB5485E-734D-4EE0-BE15-D14CD671742B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB5485E-734D-4EE0-BE15-D14CD671742B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB5485E-734D-4EE0-BE15-D14CD671742B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{890E61BB-C84D-4B23-908A-E7162F090197}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{890E61BB-C84D-4B23-908A-E7162F090197}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{890E61BB-C84D-4B23-908A-E7162F090197}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{890E61BB-C84D-4B23-908A-E7162F090197}.Release|Any CPU.Build.0 = Release|Any CPU
+		{926E3899-E3FE-427F-A182-9B26BA66B8A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{926E3899-E3FE-427F-A182-9B26BA66B8A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{926E3899-E3FE-427F-A182-9B26BA66B8A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{926E3899-E3FE-427F-A182-9B26BA66B8A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{146ADF42-4FCF-4C10-8225-BD1EBDBEBF8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{146ADF42-4FCF-4C10-8225-BD1EBDBEBF8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{146ADF42-4FCF-4C10-8225-BD1EBDBEBF8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{146ADF42-4FCF-4C10-8225-BD1EBDBEBF8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7198BBE-FADD-405F-9C81-7EF258C4E1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7198BBE-FADD-405F-9C81-7EF258C4E1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7198BBE-FADD-405F-9C81-7EF258C4E1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7198BBE-FADD-405F-9C81-7EF258C4E1A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
